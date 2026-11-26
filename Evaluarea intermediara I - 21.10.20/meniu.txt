@@ -1,0 +1,7 @@
+Meniu principal
+10 20
+4
+Adauga
+Sterge
+Modifica
+Afiseaza
