@@ -119,6 +119,4 @@ find /c /v "" mnn.cpp
 
 Pe Linux / Mac: `wc -l mnn.cpp`
 
-## Autor
 
-Numele tău, grupa ta
