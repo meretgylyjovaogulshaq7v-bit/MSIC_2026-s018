@@ -42,5 +42,5 @@ Aplicația include și tratarea excepțiilor pentru gestionarea situațiilor de 
 
 6. Compilare și executare
 bash
-g++ -std=c++11 -o metrici.exe main.cpp
-metrici.exe
+g++ -std=c++11 -o main1.exe main1.cpp
+main1.exe
