@@ -103,17 +103,12 @@ iterator (clasa interioară `Iterator`), salvare/încărcare din fișier și exc
 ## Cum se rulează proiectul
 
 ```
-g++ -std=c++11 -o mnn mnn.cpp
-mnn.exe
+g++ -std=c++11 -o meniu meniu.cpp
+meniu.exe
 ```
 
-Pe Linux / Mac: `./mnn`
+Pe Linux / Mac:./meniu
 
-## Cum se verifică numerele (LOC, comentarii)
-
-Linii totale, în CMD pe Windows:
-
-```
 find /c /v "" mnn.cpp
 ```
 
